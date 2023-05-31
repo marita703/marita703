@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**marita703/marita703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm a passionate web3 developer with a focus on blockchain technology. I'm excited about the potential of decentralized finance (DeFi) and working towards making web3 more accessible to the public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const Mar = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Solidity],
+  tools: [React, Next.js, Node, MongoDB, Styled-Components, ethers, hardhat],
+  techCommunities: {
+                        Developer: "CryptoGirlsClub",
+                        Spiced: "Alumni"
+                      },
+ challenge: "Finishing CryptogirlsClub web3 page"
+}
+
+```
+
+## Projects
+
+- **Project 1:** NFT Minter ([https://github.com/yourusername/project1](https://github.com/marita703/NFTMinterCU))
+  - NFT Minter, smart contract deployed in testnetwork Sepolia
+- **Project 2:** Cryptogirls Club NFT Landing Page ([https://github.com/yourusername/project2](https://github.com/marita703/Cryptogirlsclub))
+  - Landing page for NFT project, weblist form implementation
+
+## Education
+
+- B.S. in Industrial Engineering
+
+## Contact Me
+
+Feel free to reach out to me via [email](maramartinez93@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit).
+
+Looking forward to collaborating on exciting web3 projects and driving innovation in the blockchain space!
