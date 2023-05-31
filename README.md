@@ -29,6 +29,8 @@ const Mar = {
 - **Project 2:** Cryptogirls Club NFT Landing Page ([https://github.com/yourusername/project2](https://github.com/marita703/Cryptogirlsclub))
   - Landing page for NFT project, weblist form implementation
 
+<img src= "https://media.giphy.com/media/15Quq4AsnLck0zlm5r/giphy.gif" width="300px"/>
+
 ## Education
 
 - B.S. in Industrial Engineering
