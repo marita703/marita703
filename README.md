@@ -1,9 +1,11 @@
 
 # Hi there! 👋
 
+<h2> My name is Mar, I like to dance, travel and CODE!</h2>
+
 I'm a passionate web3 developer with a focus on blockchain technology. I'm excited about the potential of decentralized finance (DeFi) and working towards making web3 more accessible to the public.
 
-```
+```javascript
 const Mar = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Solidity],
