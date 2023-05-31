@@ -3,6 +3,8 @@
 
 <h2> My name is Mar, I like to dance, travel and CODE!</h2>
 
+<img src= "https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy-downsized-large.gif" width="400px"/>
+
 I'm a passionate web3 developer with a focus on blockchain technology. I'm excited about the potential of decentralized finance (DeFi) and working towards making web3 more accessible to the public.
 
 [![Linkedin: Maria del Mar Martinez](https://img.shields.io/badge/-maramartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maramartinez/)](https://www.linkedin.com/in/maramartinez/)
