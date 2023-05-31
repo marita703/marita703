@@ -5,6 +5,9 @@
 
 I'm a passionate web3 developer with a focus on blockchain technology. I'm excited about the potential of decentralized finance (DeFi) and working towards making web3 more accessible to the public.
 
+[![Linkedin: Maria del Mar Martinez](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/maramartinez/)
+[![GitHub marita703](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/marita703)
+
 ```javascript
 const Mar = {
   pronouns: "she" | "her",
